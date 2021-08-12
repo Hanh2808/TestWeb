@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_My Account/h1_My Dashboard",
+      "brokenLocator": "//html[@id\u003d\u0027top\u0027]/body/div/div/div[2]/div/div[2]/div/div/div/h1",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h1",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_My Account/h1_My Dashboard_position.png"
+    }
+  ]
 }

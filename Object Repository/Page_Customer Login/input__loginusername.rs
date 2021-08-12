@@ -3,7 +3,7 @@
    <description></description>
    <name>input__loginusername</name>
    <tag></tag>
-   <elementGuidId>2e80d0dc-8b5d-44a0-8686-b9b03ef66f5e</elementGuidId>
+   <elementGuidId>8b5b6e3b-5b9b-4b42-b211-1a3988e57312</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
