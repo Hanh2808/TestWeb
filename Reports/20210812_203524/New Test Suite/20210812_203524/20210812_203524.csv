@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 92.0.4515.131,,,2021-08-12 20:35:30,2021-08-12 20:43:20,7m - 49.888s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/New Test Case,Chrome 92.0.4515.131,,,2021-08-12 20:35:33,2021-08-12 20:38:10,2m - 37.052s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-12 20:35:34,2021-08-12 20:36:02,27.923s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-12 20:36:02,2021-08-12 20:37:26,1m - 24.207s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-12 20:37:26,2021-08-12 20:37:31,4.973s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-12 20:37:31,2021-08-12 20:37:32,0.866s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-12 20:37:32,2021-08-12 20:37:33,0.803s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-12 20:37:33,2021-08-12 20:38:10,37.003s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/New Test Case,Chrome 92.0.4515.131,,,2021-08-12 20:38:10,2021-08-12 20:40:48,2m - 38.502s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-12 20:38:10,2021-08-12 20:38:19,9.292s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-12 20:38:19,2021-08-12 20:40:09,1m - 49.657s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-12 20:40:09,2021-08-12 20:40:10,1.399s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-12 20:40:10,2021-08-12 20:40:12,1.275s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-12 20:40:12,2021-08-12 20:40:12,0.497s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-12 20:40:12,2021-08-12 20:40:48,36.279s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/New Test Case,Chrome 92.0.4515.131,,,2021-08-12 20:40:48,2021-08-12 20:42:10,1m - 21.159s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-12 20:40:48,2021-08-12 20:41:00,11.206s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-12 20:41:00,2021-08-12 20:41:40,39.930s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-12 20:41:40,2021-08-12 20:41:42,1.954s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-12 20:41:42,2021-08-12 20:41:43,1.337s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-12 20:41:43,2021-08-12 20:42:04,21.152s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-12 20:42:04,2021-08-12 20:42:05,0.917s,PASSED
+"click(findTestObject(""Object Repository/Page_My Account/a_Account""))",Chrome 92.0.4515.131,,,2021-08-12 20:42:05,2021-08-12 20:42:06,0.979s,PASSED
+"click(findTestObject(""Object Repository/Page_My Account/a_Log Out""))",Chrome 92.0.4515.131,,,2021-08-12 20:42:06,2021-08-12 20:42:10,3.654s,PASSED
+,,,,,,,
+Test Cases/Test_DangNhap/New Test Case,Chrome 92.0.4515.131,,,2021-08-12 20:42:10,2021-08-12 20:43:20,1m - 10.639s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-12 20:42:10,2021-08-12 20:42:18,8.421s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-12 20:42:18,2021-08-12 20:42:41,22.913s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-12 20:42:41,2021-08-12 20:42:43,1.713s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-12 20:42:43,2021-08-12 20:42:44,1.189s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-12 20:42:44,2021-08-12 20:42:44,0.572s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-12 20:42:44,2021-08-12 20:43:20,35.791s,FAILED
