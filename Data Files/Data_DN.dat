@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>New Test Data</name>
+   <name>Data_DN</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>97c50a74-1a2b-420b-a7a9-4a71a893e8f1</dataFileGUID>
+   <dataFileGUID>e3c96a15-3cfe-46bb-ae96-1b31e805f9a0</dataFileGUID>
    <dataSourceUrl>C:\Users\Trang fuji\Desktop\TestCase_ListUser.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>

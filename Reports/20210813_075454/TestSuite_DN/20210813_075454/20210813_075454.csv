@@ -1,0 +1,52 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_DN,Chrome 92.0.4515.131,,,2021-08-13 07:55:04,2021-08-13 08:00:36,5m - 31.202s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/Test Case_DN,Chrome 92.0.4515.131,,,2021-08-13 07:55:06,2021-08-13 07:56:25,1m - 19.256s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 07:55:07,2021-08-13 07:55:52,45.308s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-13 07:55:52,2021-08-13 07:56:07,14.559s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-13 07:56:07,2021-08-13 07:56:11,3.886s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-13 07:56:11,2021-08-13 07:56:12,1.100s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-13 07:56:12,2021-08-13 07:56:19,7.304s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-13 07:56:19,2021-08-13 07:56:21,2.106s,PASSED
+"click(findTestObject(""Object Repository/Page_My Account/a_Account""))",Chrome 92.0.4515.131,,,2021-08-13 07:56:21,2021-08-13 07:56:22,1.041s,PASSED
+"click(findTestObject(""Object Repository/Page_My Account/a_Log Out""))",Chrome 92.0.4515.131,,,2021-08-13 07:56:22,2021-08-13 07:56:25,2.955s,PASSED
+,,,,,,,
+Test Cases/Test_DangNhap/Test Case_DN,Chrome 92.0.4515.131,,,2021-08-13 07:56:25,2021-08-13 07:57:28,1m - 2.692s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 07:56:25,2021-08-13 07:56:38,13.097s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-13 07:56:38,2021-08-13 07:56:45,6.875s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-13 07:56:45,2021-08-13 07:56:47,2.127s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-13 07:56:47,2021-08-13 07:56:48,1.025s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-13 07:56:48,2021-08-13 07:56:52,3.250s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-13 07:56:52,2021-08-13 07:57:28,36.217s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/Test Case_DN,Chrome 92.0.4515.131,,,2021-08-13 07:57:28,2021-08-13 07:58:28,59.649s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 07:57:28,2021-08-13 07:57:42,13.856s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-13 07:57:42,2021-08-13 07:57:47,4.893s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-13 07:57:47,2021-08-13 07:57:48,1.658s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-13 07:57:48,2021-08-13 07:57:50,1.757s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-13 07:57:50,2021-08-13 07:57:51,1.248s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-13 07:57:51,2021-08-13 07:58:28,36.171s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/Test Case_DN,Chrome 92.0.4515.131,,,2021-08-13 07:58:28,2021-08-13 07:59:20,52.777s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 07:58:28,2021-08-13 07:58:36,8.078s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-13 07:58:36,2021-08-13 07:58:41,4.750s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-13 07:58:41,2021-08-13 07:58:42,1.833s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-13 07:58:42,2021-08-13 07:58:44,1.260s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-13 07:58:44,2021-08-13 07:58:44,0.548s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-13 07:58:44,2021-08-13 07:59:20,36.278s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/Test Case_DN,Chrome 92.0.4515.131,,,2021-08-13 07:59:20,2021-08-13 08:00:13,52.635s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 07:59:21,2021-08-13 07:59:28,7.344s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-13 07:59:28,2021-08-13 07:59:34,5.624s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-13 07:59:34,2021-08-13 07:59:36,2.025s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-13 07:59:36,2021-08-13 07:59:37,1.167s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-13 07:59:37,2021-08-13 07:59:37,0.553s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-13 07:59:37,2021-08-13 08:00:13,35.818s,FAILED
+,,,,,,,
+Test Cases/Test_DangNhap/Test Case_DN,Chrome 92.0.4515.131,,,2021-08-13 08:00:13,2021-08-13 08:00:36,22.415s,FAILED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 08:00:13,2021-08-13 08:00:22,8.709s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/login/"")",Chrome 92.0.4515.131,,,2021-08-13 08:00:22,2021-08-13 08:00:28,5.911s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginusername""), user)",Chrome 92.0.4515.131,,,2021-08-13 08:00:28,2021-08-13 08:00:30,2.510s,PASSED
+"setText(findTestObject(""Object Repository/Page_Customer Login/input__loginpassword""), pass)",Chrome 92.0.4515.131,,,2021-08-13 08:00:30,2021-08-13 08:00:31,0.873s,PASSED
+"click(findTestObject(""Object Repository/Page_Customer Login/span_Login""))",Chrome 92.0.4515.131,,,2021-08-13 08:00:31,2021-08-13 08:00:34,3.204s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/strong_Hello, Hnh Trng""), ""Hello, Hạnh Trương!"")",Chrome 92.0.4515.131,,,2021-08-13 08:00:34,2021-08-13 08:00:36,1.186s,FAILED

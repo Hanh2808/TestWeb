@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_My Account/h1_My Dashboard_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_My Account/span_Thank you for registering with Main We_9337a1",
+      "brokenLocator": "//html[@id\u003d\u0027top\u0027]/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_My Account/span_Thank you for registering with Main We_9337a1_position.png"
     }
   ]
 }

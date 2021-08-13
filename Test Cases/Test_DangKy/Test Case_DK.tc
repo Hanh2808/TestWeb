@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case_DK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc77def3-ff8d-4c93-acea-97d5ae456146</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3c720cde-7b5f-4276-becc-7b8480dc7dfe</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>583194f1-aad8-4f79-9451-7b67ed536b29</id>
+      <masked>false</masked>
+      <name>Mid</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>faa6c82f-9754-483f-bd97-0c6156528c7d</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba46bc42-80fb-4c02-b086-2a6410625b1b</id>
+      <masked>false</masked>
+      <name>EmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>44a79c82-dd62-43be-91fa-7c7c0978fcb0</id>
+      <masked>false</masked>
+      <name>Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22e9b35b-ea4f-4928-a713-22983f958b32</id>
+      <masked>false</masked>
+      <name>Confirmpass</name>
+   </variable>
+</TestCaseEntity>

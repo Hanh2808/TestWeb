@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>TestSuite_DN</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,29 +10,29 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>d8b00140-72c8-4dbe-91ca-c9b764604799</testSuiteGuid>
+   <testSuiteGuid>83d01546-9418-482b-bf29-bbda49f3dffc</testSuiteGuid>
    <testCaseLink>
-      <guid>61b68487-447f-45d2-97c7-9206c2fdabab</guid>
+      <guid>e33e4a52-edd6-4dc3-910c-9c070f0004c1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test_DangNhap/New Test Case</testCaseId>
+      <testCaseId>Test Cases/Test_DangNhap/Test Case_DN</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>7092be37-bf7e-47c9-8b01-921ed7e95872</id>
+         <id>9070cd89-db1f-49d0-b2da-2a1f04f75735</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/New Test Data</testDataId>
+         <testDataId>Data Files/Data_DN</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId>7092be37-bf7e-47c9-8b01-921ed7e95872</testDataLinkId>
+         <testDataLinkId>9070cd89-db1f-49d0-b2da-2a1f04f75735</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>user</value>
          <variableId>0baf9158-bb86-4fdb-90ab-1cf19f9b62e1</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>7092be37-bf7e-47c9-8b01-921ed7e95872</testDataLinkId>
+         <testDataLinkId>9070cd89-db1f-49d0-b2da-2a1f04f75735</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>pass</value>
          <variableId>cfcf1ee5-c994-4e06-9c38-2d4c9adf0836</variableId>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite_DK</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8387cac2-43be-4a0e-a57b-041570cd6097</testSuiteGuid>
+   <testCaseLink>
+      <guid>3738bb72-2c00-453b-96d1-e6c9d8c67128</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test_DangKy/Test Case_DK</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>26443b99-9e64-49b2-a81a-5ca957a27240</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_DK</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>26443b99-9e64-49b2-a81a-5ca957a27240</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>FirstName</value>
+         <variableId>3c720cde-7b5f-4276-becc-7b8480dc7dfe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26443b99-9e64-49b2-a81a-5ca957a27240</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Mid</value>
+         <variableId>583194f1-aad8-4f79-9451-7b67ed536b29</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26443b99-9e64-49b2-a81a-5ca957a27240</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>LastName</value>
+         <variableId>faa6c82f-9754-483f-bd97-0c6156528c7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26443b99-9e64-49b2-a81a-5ca957a27240</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EmailAddress</value>
+         <variableId>ba46bc42-80fb-4c02-b086-2a6410625b1b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26443b99-9e64-49b2-a81a-5ca957a27240</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Pass</value>
+         <variableId>44a79c82-dd62-43be-91fa-7c7c0978fcb0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26443b99-9e64-49b2-a81a-5ca957a27240</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Confirmpass</value>
+         <variableId>22e9b35b-ea4f-4928-a713-22983f958b32</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

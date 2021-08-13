@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 92.0.4515.131,,,2021-08-13 09:31:08,2021-08-13 09:32:16,1m - 7.205s,PASSED
+,,,,,,,
+Test Cases/Test_DangKy/New Test Case (1),Chrome 92.0.4515.131,,,2021-08-13 09:31:09,2021-08-13 09:32:16,1m - 6.307s,PASSED
+"openBrowser("""")",Chrome 92.0.4515.131,,,2021-08-13 09:31:11,2021-08-13 09:31:47,36.710s,PASSED
+"navigateToUrl(""http://live.demoguru99.com/index.php/customer/account/create/"")",Chrome 92.0.4515.131,,,2021-08-13 09:31:47,2021-08-13 09:32:00,13.149s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input__firstname""), FirstName)",Chrome 92.0.4515.131,,,2021-08-13 09:32:00,2021-08-13 09:32:03,2.661s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input_Middle NameInitial_middlename""), Mid)",Chrome 92.0.4515.131,,,2021-08-13 09:32:03,2021-08-13 09:32:04,1.240s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input__lastname""), LastName)",Chrome 92.0.4515.131,,,2021-08-13 09:32:04,2021-08-13 09:32:05,0.976s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input__email""), EmailAddress)",Chrome 92.0.4515.131,,,2021-08-13 09:32:05,2021-08-13 09:32:06,0.960s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input__password""), Pass)",Chrome 92.0.4515.131,,,2021-08-13 09:32:06,2021-08-13 09:32:07,0.948s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create New Customer Account/input__confirmation""), Confirmpass)",Chrome 92.0.4515.131,,,2021-08-13 09:32:07,2021-08-13 09:32:08,0.934s,PASSED
+"click(findTestObject(""Object Repository/Page_Create New Customer Account/button_Register""))",Chrome 92.0.4515.131,,,2021-08-13 09:32:08,2021-08-13 09:32:13,5.158s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_My Account/span_Thank you for registering with Main We_9337a1""), ""Thank you for registering with Main Website Store."")",Chrome 92.0.4515.131,,,2021-08-13 09:32:13,2021-08-13 09:32:16,2.234s,PASSED
