@@ -27,9 +27,3 @@ WebUI.setText(findTestObject('Object Repository/Page_Customer Login/input__login
 
 WebUI.click(findTestObject('Object Repository/Page_Customer Login/span_Login'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_My Account/strong_Hello, Hnh Trng'), 'Hello, Hạnh Trương!')
-
-WebUI.click(findTestObject('Object Repository/Page_My Account/a_Account'))
-
-WebUI.click(findTestObject('Object Repository/Page_My Account/a_Log Out'))
-
